@@ -2,7 +2,7 @@
 
 A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. Built to explore cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
 
-## Tools & Technologies
+## Tools & Technologies Used
 
 - Microsoft Azure
 - Azure Sentinel (SIEM)
@@ -26,6 +26,12 @@ A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor re
  
 - Azure Sentinel workbook: RDP Attack Map  
 ![image](https://github.com/user-attachments/assets/a2dfce6c-b5c8-42b1-8baa-9c5a22ee78be)
+
+## Lessons Learned
+I learned how to deploy and configure multiple Azure services, including Log Analytics Workspace and Microsoft Sentinel, from scratch. Everything in this project was new to me — from writing PowerShell scripts to add geolocation data to the logs, to using KQL for analyzing login attempts and suspicious behavior.
+
+One of the most fascinating parts of the experience was seeing the real-time concentration of attacks from around the world. Visualizing attacker geolocation, the frequency of brute force attempts, and even the types of usernames being targeted helped me truly grasp how constant and aggressive cyber threats can be. This hands-on lab gave me a much deeper understanding of threat detection, SIEM tools, and cloud-based monitoring.
+
 
 ## Credits & Inspiration
 - This lab was inspired by [Josh Madakor's tutorial on YouTube]
