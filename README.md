@@ -2,8 +2,6 @@
 
 A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. Built to explore cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
 
----
-
 ## Tools & Technologies
 
 - Microsoft Azure
@@ -13,8 +11,6 @@ A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor re
 - Kusto Query Language (KQL)
 - IP Geolocation API
 
----
-
 ## What This Lab Does
 
 - Deploys a Windows-based honeypot VM publicly exposed to attract malicious RDP activity.
@@ -22,8 +18,6 @@ A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor re
 - Sends data to Log Analytics Workspace for centralized log management.
 - Visualizes global attack patterns with a custom Sentinel Workbook.
 - Detects suspicious login behaviors using custom KQL queries.
-
----
 
 ## Screenshots
 
