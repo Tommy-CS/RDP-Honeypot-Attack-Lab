@@ -27,3 +27,6 @@ A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor re
 - Azure Sentinel workbook: RDP Attack Map  
 ![image](https://github.com/user-attachments/assets/a2dfce6c-b5c8-42b1-8baa-9c5a22ee78be)
 
+## Credits & Inspiration
+- This lab was inspired by [Josh Madakor's tutorial on YouTube]
+
