@@ -1,3 +1,35 @@
-# Azure-Sentinel-Attack-Monitoring-Lab-
-Designed and deployed a cloud-based lab using Azure Sentinel to monitor real-world RDP brute force attacks on a honeypot VM. Collected and enriched security logs with geolocation data, then used KQL to detect suspicious patterns and visualize global attack activity.
-![image](https://github.com/user-attachments/assets/4b6b6d4d-7cd0-4391-bccf-cb4f8d76db44)
+# Azure-Sentinel-Attack-Monitoring-Lab
+
+A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. Built to explore cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
+
+---
+
+## Tools & Technologies
+
+- Microsoft Azure
+- Azure Sentinel (SIEM)
+- PowerShell
+- Log Analytics Workspace
+- Kusto Query Language (KQL)
+- IP Geolocation API
+
+---
+
+## What This Lab Does
+
+- Deploys a Windows-based honeypot VM publicly exposed to attract malicious RDP activity.
+- Uses PowerShell to extract login events from Event Viewer and enrich logs with geolocation data.
+- Sends data to Log Analytics Workspace for centralized log management.
+- Visualizes global attack patterns with a custom Sentinel Workbook.
+- Detects suspicious login behaviors using custom KQL queries.
+
+---
+
+## Screenshots
+
+- PowerShell log output
+![image](https://github.com/user-attachments/assets/752a47b2-1dd2-44d1-aa13-79a95dd10946)
+ 
+- Azure Sentinel workbook: RDP Attack Map  
+![image](https://github.com/user-attachments/assets/a2dfce6c-b5c8-42b1-8baa-9c5a22ee78be)
+
