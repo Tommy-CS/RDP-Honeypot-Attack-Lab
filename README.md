@@ -33,5 +33,5 @@ I learned how to deploy and configure multiple Azure services, including Log Ana
 One of the most fascinating parts of the experience was seeing the real-time concentration of attacks from around the world. Visualizing attacker geolocation, the frequency of brute force attempts, and even the types of usernames being targeted helped me truly grasp how constant and aggressive cyber threats can be. This hands-on lab gave me a much deeper understanding of threat detection, SIEM tools, and cloud-based monitoring.
 
 ## Credits & Inspiration
-This lab was inspired by [Josh Madakor's tutorial on YouTube]. Parts of the PowerShell script were directly taken or adapted from his walkthrough for educational and personal learning purposes.
+This lab was inspired by Josh Madakor's tutorial on YouTube. Parts of the PowerShell script were directly taken or adapted from his walkthrough for educational and personal learning purposes.
 
