@@ -1,4 +1,4 @@
-# RDP Brute Force Attack Lab
+# RDP Honeypot Attack Lab
 
 A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. Built to explore cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
 
