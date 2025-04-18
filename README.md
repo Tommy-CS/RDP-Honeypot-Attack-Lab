@@ -1,6 +1,6 @@
 # RDP Honeypot Attack Lab
 
-A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. Built to explore cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
+This is a hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor real-world RDP brute force attacks. It is focused on cloud-based threat detection and log analysis with real-time visualization and investigation using KQL.
 
 ## Tools & Technologies Used
 
@@ -14,7 +14,7 @@ A hands-on cybersecurity lab using Microsoft Sentinel to simulate and monitor re
 ## What This Lab Does
 
 - Deploys a Windows-based honeypot VM publicly exposed to attract malicious RDP activity.
-- Uses PowerShell to extract login events from Event Viewer and enrich logs with geolocation data.
+- Uses PowerShell to extract login events from Event Viewer and tag them with geolocation data from an API.
 - Sends data to Log Analytics Workspace for centralized log management.
 - Visualizes global attack patterns with a custom Sentinel Workbook.
 - Detects suspicious login behaviors using custom KQL queries.
