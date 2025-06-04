@@ -28,7 +28,7 @@ This is a hands-on cybersecurity lab using Microsoft Sentinel to simulate and mo
 ![image](https://github.com/user-attachments/assets/a2dfce6c-b5c8-42b1-8baa-9c5a22ee78be)
 
 ## Lessons Learned
-I learned how to deploy and configure multiple Azure services, including Log Analytics Workspace and Microsoft Sentinel, from scratch. Everything in this project was new to me — from writing PowerShell scripts that combined login records with IP geolocation to using KQL for analyzing login attempts and suspicious behavior.
+I learned how to deploy and configure multiple Azure services, including Log Analytics Workspace and Microsoft Sentinel, from scratch. Everything in this project was new to me. From writing PowerShell scripts that combined login records with IP geolocation to using KQL for analyzing login attempts and suspicious behavior.
 
 One of the most fascinating parts of the experience was seeing the real-time concentration of attacks from around the world. Visualizing attacker geolocation, the frequency of brute force attempts, and even the types of usernames being targeted helped me truly grasp how constant and aggressive cyber threats can be. This hands-on lab gave me a much deeper understanding of threat detection, SIEM tools, and cloud-based monitoring.
 
